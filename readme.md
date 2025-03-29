@@ -21,16 +21,17 @@
 ### Let's connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thomas-franke-32596639/">
+  <a href="https://www.linkedin.com/in/thomas-franke-32596639/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524">
+  <a href="https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524" style="text-decoration: none;">
     <img src="https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge"/>
   </a>
-  <a href="https://frankeapps.com">
+  <a href="https://frankeapps.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
