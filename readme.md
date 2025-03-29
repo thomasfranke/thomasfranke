@@ -20,13 +20,16 @@
 
 ### 🛠️ Tech Stack & Specialties  
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 📱 **Mobile**: Flutter (5 years) | Swift/Objective-C | Java/Kotlin  
 💡 **Back-end**: FastAPI | PHP | Django | Spring Boot  
@@ -46,6 +49,7 @@
   🔧 Tech Stack: Flutter, PHP, SQL, Firebase  
 
 - 🚀 **[ERP Mobile Solution](https://versotech.com.br)** *(Private)*
+  
   📌 ERP-integrated application processing over $1B annually  
   🔧 Tech Stack: Flutter, Offline-first strategies, DDD, CI/CD, Automated tests (E2E, integration, unit)  
 
