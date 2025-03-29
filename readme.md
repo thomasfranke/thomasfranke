@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋 I'm Thomas/h1>
+<h1 align="center">Hi there! 👋 I'm Thomas</h1>
 
 <p align="center">
   🚀 Full Stack Developer | Mobile Lead | Flutter | AI & FastAPI
