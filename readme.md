@@ -18,6 +18,17 @@
 
 ---
 
+### Let's connect!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  [![wakatime](https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge)](https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524)
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</p>
+
+
+---
+
 ### 🛠️ Tech Stack & Specialties  
 
 <p align="center">
@@ -28,14 +39,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/WakaTime-FF6A00?style=for-the-badge&logo=wakatime&logoColor=white" />
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-</p>
-
-[![wakatime](https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge)](https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524)
 
 📱 **Mobile**: Flutter (5 years) | Swift/Objective-C | Java/Kotlin  
 💡 **Back-end**: FastAPI | PHP | Django | Spring Boot  
