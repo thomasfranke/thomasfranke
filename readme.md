@@ -21,11 +21,15 @@
 ### Let's connect!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524">
-    <img src="https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/thomas-franke-32596639/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  <a href="https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524">
+    <img src="https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge"/>
+  </a>
+  <a href="https://frankeapps.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -33,12 +37,12 @@
 ### 🛠️ Tech Stack & Specialties  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 📱 **Mobile**: Flutter (5 years) | Swift/Objective-C | Java/Kotlin  
