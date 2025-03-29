@@ -32,7 +32,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack & Specialties  
