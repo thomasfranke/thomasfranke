@@ -22,14 +22,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/WakaTime-FF6A00?style=for-the-badge&logo=wakatime&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge)](https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524)
 
 📱 **Mobile**: Flutter (5 years) | Swift/Objective-C | Java/Kotlin  
 💡 **Back-end**: FastAPI | PHP | Django | Spring Boot  
@@ -37,7 +43,6 @@
 🔍 **Testing**: Unit, Integration, E2E  
 🛠 **Architecture**: Clean Architecture, DDD, Offline-first  
 
-[![wakatime](https://wakatime.com/badge/user/81ee337c-1e3d-460c-9004-b1ee1d921524.svg?style=for-the-badge)](https://wakatime.com/@81ee337c-1e3d-460c-9004-b1ee1d921524)
 
 
 ---
