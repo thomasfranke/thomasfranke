@@ -52,16 +52,14 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasfranke&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfranke&layout=compact&theme=dark)  
 
 ---
 
 ### 📬 Contact  
-
-📩 **Email:** your.email@example.com  
-💼 **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)  
-🌎 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+💼 **LinkedIn:** [Thomas Franke](https://www.linkedin.com/in/thomas-franke-32596639/)  
+🌎 **Portfolio:** [frankeapps.com](https://frankeapps.com)  
 
 ---
 
