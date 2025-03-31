@@ -19,8 +19,13 @@
 
 ---
 
-### Showcase Demo App
-• [Flutter DDD](https://github.com/thomasfranke/flutter_ddd)
+### 🚀 Showcase Demo Apps  
+- [**Flutter DDD: MobX + Modular**](https://github.com/thomasfranke/flutter_ddd)
+  - A simple app demonstrating Clean Architecture and DDD principles using MobX and Modular.  
+- **Flutter DDD: Bloc** *(Coming Soon)*  
+  - Similar to the previous app, but using the complete Bloc Pattern on the UI Layer.
+- **FastAPI AI** *(Coming Soon)*  
+  - A lightweight API showcasing AI integration with Hugging Face, with a strong focus on data privacy.  
 
 ---
 
