@@ -18,6 +18,11 @@
 
 ---
 
+### Showcase Demo App
+![Flutter DDD](https://github.com/thomasfranke/flutter_ddd)
+
+---
+
 ### Let's connect!
 
 <p align="center">
