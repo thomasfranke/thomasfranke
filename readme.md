@@ -65,10 +65,10 @@
 ### 🌟 Featured Projects
 
 - 🔥 **[House of Clashers]** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
--- 📌 Leading Clash of Clans guide app with **15M+ downloads** and **200k daily users**
--- 🔧 **Tech Stack:** Flutter, PHP, SQL, Firebase
+  - 📌 Leading Clash of Clans guide app with **15M+ downloads** and **200k daily users**
+  - 🔧 **Tech Stack:** Flutter, PHP, SQL, Firebase
 
-- 🚀 **ERP Mobile Solution at [Versotech](https://versotech.com.br) *(Private)***
+- 🚀 **ERP Mobile Solution at [Versotech](https://versotech.com.br)** *(Private)*
   - 🤓 **Mobile Lead Developer** – Architecting large-scale mobile apps using Flutter
   - 📌 **ERP-integrated** application processing over **$1B annually**
   - 🔧 **Tech Stack:** Flutter, Offline-first strategies, DDD, CI/CD, Automated tests (E2E, integration, unit), Error Monitoring
