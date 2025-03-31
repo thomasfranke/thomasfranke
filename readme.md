@@ -19,7 +19,7 @@
 ---
 
 ### Showcase Demo App
-![Flutter DDD](https://github.com/thomasfranke/flutter_ddd)
+• [Flutter DDD](https://github.com/thomasfranke/flutter_ddd)
 
 ---
 
