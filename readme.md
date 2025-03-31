@@ -10,11 +10,12 @@
 ### 💡 About Me  
 
 🔹 **Full Stack Developer** with 10+ years of experience in mobile development  
-🔹 **Mobile Lead Developer at Versotech**, building ERP-integrated apps processing $1B+ annually  
+🔹 **Current Stack:** Working with Flutter and leveraging Python FastAPI to integrate AI solutions  
+🔹 **Mobile Lead Developer at Versotech**, building ERP-integrated apps processing over $1B annually  
 🔹 **Entrepreneur** with millions of downloads across published apps  
 🔹 **Creator of House of Clashers** – 15M+ downloads, 200k daily users, PHP backend  
-🔹 **Software architecture specialist**: MVC, MVVC, DDD, Clean Architecture  
-🔹 **AI & Privacy Focus**: Running LLM models locally with FastAPI  
+🔹 **Software Architecture Specialist** – MVC, MVVC, DDD, Clean Architecture  
+🔹 **AI & Privacy Advocate** – Running LLM models locally with FastAPI  
 
 ---
 
