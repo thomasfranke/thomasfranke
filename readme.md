@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋 I'm Thomas</h1>
+<h1 align="center">Hi there! 👋 I'm Thomas!</h1>
 
 <p align="center">
   🚀 Full Stack Developer | Mobile Lead | Flutter | AI & FastAPI
@@ -21,13 +21,12 @@
 
 ### 💡 About Me
 
-🔹 **Full Stack Developer** with 10+ years of experience in mobile development  
+🔹 **Full Stack Developer:** 10+ years of experience in mobile development  
 🔹 **Current Stack:** Working with Flutter and leveraging Python FastAPI to integrate AI solutions  
-🔹 **Mobile Lead Developer at Versotech**, building ERP-integrated apps processing over $1B annually  
-🔹 **Entrepreneur** with millions of downloads across published apps  
-🔹 **Creator of House of Clashers** – 15M+ downloads, 200k daily users, PHP backend  
-🔹 **Software Architecture Specialist** – MVC, MVVC, DDD, Clean Architecture  
-🔹 **AI & Privacy Advocate** – Running LLM models locally with FastAPI  
+🔹 **Mobile Lead Developer at Versotech:** Building ERP-integrated apps processing over $1B annually  
+🔹 **House of Clashers Creator** – 15M+ downloads, 200k daily users, PHP backend, real time Clash of Clans Stats
+🔹 **Software Architecture Specialist:** MVC, MVVC, DDD, Clean Architecture  
+🔹 **AI & Privacy Advocate:** Running LLM models locally with FastAPI and private data processing
 
 ---
 
@@ -53,25 +52,25 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-📱 **Mobile**: Flutter (last 5 years), transitioning from Objective-C/Swift and Java/Kotlin  
-💡 **Back-end**: PHP, FastAPI  
-🚀 **DevOps**: CI/CD, Bitbucket Pipelines, Codemagic   
-🔍 **Testing**: Unit, Integration, E2E   
-🛠 **Architecture**: Clean Architecture, DDD, Offline-first   
-💥 **Error Monitoring**: Sentry, Google Crashlytics  
+📱 **Mobile:** Flutter (last 5 years), transitioning from Objective-C/Swift and Java/Kotlin  
+💡 **Back-end:** PHP, FastAPI  
+🚀 **DevOps:** CI/CD, Bitbucket Pipelines, Codemagic   
+🔍 **Testing:** Unit, Integration, E2E   
+🛠 **Architecture:** Clean Architecture, DDD, Offline-first   
+💥 **Error Monitoring:** Sentry, Google Crashlytics  
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🔥 **[House of Clashers]** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
+- 🔥 **House of Clashers** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
   - 📌 Leading Clash of Clans guide app with **15M+ downloads** and **200k daily users**
-  - 🔧 **Tech Stack:** Flutter, PHP, SQL, Firebase
+  - 🔧 **Tech Used:** Flutter, PHP, SQL, Firebase
 
 - 🚀 **ERP Mobile Solution at [Versotech](https://versotech.com.br)** *(Private)*
-  - 🤓 **Mobile Lead Developer** – Architecting large-scale mobile apps using Flutter
-  - 📌 **ERP-integrated** application processing over **$1B annually**
-  - 🔧 **Tech Stack:** Flutter, Offline-first strategies, DDD, CI/CD, Automated tests (E2E, integration, unit), Error Monitoring
+  - 🤓 **Mobile Lead Developer:** Architecting large-scale mobile apps using Flutter
+  - 📌 **ERP-integrated:** Flutter applications processing over **$1B annually**
+  - 🔧 **Tech Used:** Flutter, Offline-first strategies, DDD, CI/CD, Automated tests (E2E, integration, unit), Error Monitoring
 
 ---
 
@@ -88,4 +87,4 @@
 
 ---
 
-💡 *Open to new opportunities and collaborations! Let’s connect! 🚀*
+💡 *Open to new opportunities and collaborations! Let’s connect!* 🚀
