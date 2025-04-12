@@ -24,7 +24,7 @@
 🔹 **Full Stack Developer:** 10+ years of experience in mobile development  
 🔹 **Current Stack:** Working with Flutter and leveraging Python FastAPI to integrate AI solutions  
 🔹 **Mobile Lead Developer at Versotech:** Building ERP-integrated apps processing over $1B annually  
-🔹 **House of Clashers Creator** – 15M+ downloads, 200k daily users, PHP backend, real time Clash of Clans Stats
+🔹 **House of Clashers Creator** – 15M+ downloads, 200k daily users, PHP backend, real time Clash of Clans Stats  
 🔹 **Software Architecture Specialist:** MVC, MVVC, DDD, Clean Architecture  
 🔹 **AI & Privacy Advocate:** Running LLM models locally with FastAPI and private data processing
 
