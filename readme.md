@@ -82,6 +82,8 @@
     </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thomasfranke&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasfranke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfranke&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
