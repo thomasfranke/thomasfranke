@@ -21,12 +21,19 @@
 
 ### 💡 About Me
 
-🔹 **Full Stack Developer:** 10+ years of experience in mobile development  
-🔹 **Current Stack:** Working with Flutter and leveraging Python FastAPI to integrate AI solutions  
-🔹 **Mobile Lead Developer at Versotech:** Building ERP-integrated apps processing over $1B annually  
-🔹 **House of Clashers Creator** – 15M+ downloads, 200k daily users, PHP backend, real time Clash of Clans Stats  
+🔹 **Full Stack Developer** with 10+ years of experience, specialized in mobile development  
+🔹 **Current Stack:** Flutter + Python (FastAPI), integrating AI solutions with real-time performance  
 🔹 **Software Architecture Specialist:** MVC, MVVC, DDD, Clean Architecture  
-🔹 **AI & Privacy Advocate:** Running LLM models locally with FastAPI and private data processing
+🔹 **Mobile Lead at Versotech:** Leading the development of ERP-integrated apps processing $1B+ annually  
+🔹 **Creator of House of Clashers** 15M+ downloads, 200k daily users, PHP backend with real-time Clash of Clans stats  
+🔹 **AI & Privacy Advocate:** Running LLMs locally with FastAPI for private, edge-based data processing  
+🔹 **Flutter Ecosystem Expertise:**  
+&nbsp;&nbsp;&nbsp;&nbsp;• **State Management:** Bloc, MobX  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Architecture & DI:** Modular, GetIt, AutoRoute (❤️ typed routes), AutoInjector  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Storage:** SQFlite, Hive, ObjectBox, SecureStorage  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Codegen & Modeling:** JsonAnnotation, Freezed, Result, Result Dart  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Testing:** Unit, Widget, Integration, E2E | Mocktail  
+
 
 ---
 
@@ -36,11 +43,10 @@
   - A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using MobX and Modular.
 - **Flutter DDD: Bloc** *(Coming Soon)*
   - Similar to the previous app, but using the complete Bloc Pattern in the UI Layer.
-
-- **Simple FastAPI AI DDD** *(Coming Soon)*  
-  - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
 - [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi_ddd)
   - A lightweight API showcasing integration with the Binance API using DDD.
+- **Simple FastAPI AI DDD** *(Coming Soon)*  
+  - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
 
 
 ---
