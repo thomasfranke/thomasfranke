@@ -31,12 +31,16 @@
 ---
 
 ### 🚀 Showcase Demo Apps
-- [**Flutter DDD: MobX + Modular**](https://github.com/thomasfranke/flutter_ddd)
-  - A simple app demonstrating Clean Architecture and DDD principles using MobX and Modular.
+
+- [**Flutter Crypto DDD: MobX + Modular**](https://github.com/thomasfranke/flutter_ddd)
+  - A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using MobX and Modular.
 - **Flutter DDD: Bloc** *(Coming Soon)*
-  - Similar to the previous app, but using the complete Bloc Pattern on the UI Layer.
-- **FastAPI AI** *(Coming Soon)* 
-  - A lightweight API showcasing AI integration with Hugging Face, with a strong focus on data privacy.
+  - Similar to the previous app, but using the complete Bloc Pattern in the UI Layer.
+
+- **Simple FastAPI AI DDD** *(Coming Soon)*  
+  - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
+- [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi_ddd)
+  - A lightweight API showcasing integration with the Binance API using DDD.
 
 
 ---
