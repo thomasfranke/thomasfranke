@@ -31,8 +31,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• **State Management:** Bloc, MobX  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Architecture & DI:** Modular, GetIt, AutoRoute (❤️ typed routes), AutoInjector  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Storage:** SQFlite, Hive, ObjectBox, SecureStorage  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Codegen & Modeling:** JsonAnnotation, Freezed, Result, Result Dart  
-   - **Testing:** Unit, Widget, Integration, E2E | Mocktail  
+  - **Codegen & Modeling:** JsonAnnotation, Freezed, Result, Result Dart  
+  - **Testing:** Unit, Widget, Integration, E2E | Mocktail  
 
 ---
 
