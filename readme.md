@@ -19,7 +19,7 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 🔹 **Full Stack Developer** with 10+ years of experience, specialized in mobile development  
 🔹 **Current Stack:** Flutter + Python (FastAPI), integrating AI solutions with real-time performance  
@@ -32,12 +32,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;• **Architecture & DI:** Modular, GetIt, AutoRoute (❤️ typed routes), AutoInjector  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Storage:** SQFlite, Hive, ObjectBox, SecureStorage  
 &nbsp;&nbsp;&nbsp;&nbsp;• **Codegen & Modeling:** JsonAnnotation, Freezed, Result, Result Dart  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Testing:** Unit, Widget, Integration, E2E | Mocktail  
-
+   - **Testing:** Unit, Widget, Integration, E2E | Mocktail  
 
 ---
 
-### 🚀 Showcase Demo Apps
+### Showcase Demo Apps
 
 - [**Flutter Crypto DDD: MobX + Modular**](https://github.com/thomasfranke/flutter_ddd)
   - A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using MobX and Modular.
@@ -48,10 +47,9 @@
 - **Simple FastAPI AI DDD** *(Coming Soon)*  
   - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
 
-
 ---
 
-### 🛠️ Tech Stack & Specialties
+### Tech Stack & Specialties
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -71,7 +69,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 - 🔥 **House of Clashers** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
   - 📌 Leading Clash of Clans guide app with **15M+ downloads** and **200k daily users**
@@ -84,8 +82,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### GitHub Stats
 
 <p align="center">
     <a href="https://github.com/thomasfranke">
@@ -95,7 +92,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomasfranke&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasfranke&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
----
-
-💡 *Open to new opportunities and collaborations! Let’s connect!* 🚀
