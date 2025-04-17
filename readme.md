@@ -38,19 +38,19 @@
 
 ### Architecture Showcase Demo Apps
 
-#### [Flutter Crypto DDD: v1](https://github.com/thomasfranke/flutter_ddd)  
-- A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using `MobX` and `Modular`.
-#### Flutter Crypto DDD: v2 *(Coming Soon)*  
-- Similar to the previous app, but experimenting with more modern packages:
-  - `Modular` → `AutoRoute` (❤️ typed routes) + `AutoInjector`
-  - `Result` → `Dart Result`
-  - `Json Annotation` → `Freezed`
-#### Flutter Crypto DDD: Bloc *(Coming Soon)*  
-    Similar to the previous app, but replacing `MobX` with the complete `Bloc` Pattern.
-#### [Simple FastAPI Crypto DDD](https://github.com/thomasfranke/fastapi_ddd)  
-  A lightweight API showcasing integration with the Binance API using DDD.
-#### Simple FastAPI AI DDD *(Coming Soon)*  
-  A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
+- [**Flutter Crypto DDD: v1**](https://github.com/thomasfranke/flutter_ddd)  
+  - A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using `MobX` and `Modular`.
+- **Flutter Crypto DDD: v2** *(Coming Soon)*  
+  - Similar to the previous app, but experimenting with more modern packages:
+    - `Modular` → `AutoRoute` (❤️ typed routes) + `AutoInjector`
+    - `Result` → `Dart Result`
+    - `Json Annotation` → `Freezed`
+- **Flutter Crypto DDD: Bloc** *(Coming Soon)*  
+  - Similar to the previous app, but replacing `MobX` with the complete `Bloc` Pattern.
+- [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi_ddd)  
+  - A lightweight API showcasing integration with the Binance API using DDD.
+- **Simple FastAPI AI DDD** *(Coming Soon)*  
+  - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.
 
 ---
 
