@@ -54,7 +54,7 @@
   - A lightweight API showcasing integration with the Binance API using DDD.  
 
 🔹 **Simple FastAPI AI DDD** *(Coming Soon)*
-- A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.  
+   • A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.  
 
 
 ---
