@@ -53,7 +53,7 @@
 🔹 [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi_ddd)  
   - A lightweight API showcasing integration with the Binance API using DDD.  
 
-- **Simple FastAPI AI DDD** *(Coming Soon)*  
+🔹 **Simple FastAPI AI DDD** *(Coming Soon)*  
   - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.  
 
 
@@ -68,24 +68,28 @@
   <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
-📱 **Mobile:** Flutter (last 5 years), transitioning from Objective-C/Swift and Java/Kotlin  
-💡 **Back-end:** PHP, FastAPI  
-🚀 **DevOps:** CI/CD, Bitbucket Pipelines, Codemagic   
-🔍 **Testing:** Unit, Integration, E2E   
-🛠 **Architecture:** Clean Architecture, DDD, Offline-first   
-💥 **Error Monitoring:** Sentry, Google Crashlytics  
+
+🔹 **Mobile:** Flutter (last 5 years), transitioning from Objective-C/Swift and Java/Kotlin  
+🔹 **Back-end:** PHP, FastAPI  
+🔹 **DevOps:** CI/CD, Bitbucket Pipelines, Codemagic   
+🔹 **Testing:** Unit, Integration, E2E   
+🔹 **Architecture:** Clean Architecture, DDD, Offline-first   
+🔹 **Error Monitoring:** Sentry, Google Crashlytics  
 
 ---
 
 ### Featured Projects
 
-- 🔥 **House of Clashers** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
+- **House of Clashers** ([iOS](https://apps.apple.com/us/app/house-of-clashers-clash-guide/id653987498) | [Android](https://play.google.com/store/apps/details?id=com.frankeaplicativos.houseofclashers&hl=pt_BR))
   - 📌 Leading Clash of Clans guide app with **15M+ downloads** and **200k daily users**
   - 🔧 **Tech Used:** Flutter, PHP, SQL, Firebase
 
-- 🚀 **ERP Mobile Solution at [Versotech](https://versotech.com.br)** *(Private)*
+- **ERP Mobile Solution at [Versotech](https://versotech.com.br)** *(Private)*
   - 🤓 **Mobile Lead Developer:** Architecting large-scale mobile apps using Flutter
   - 📌 **ERP-integrated:** Flutter applications processing over **$1B annually**
   - 🔧 **Tech Used:** Flutter, Offline-first strategies, DDD, CI/CD, Automated tests (E2E, integration, unit), Error Monitoring
