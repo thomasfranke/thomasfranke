@@ -23,15 +23,15 @@
 
 🔹 **Full Stack Developer** with 10+ years of experience, specialized in mobile development  
 🔹 **Current Stack:** Flutter + Python (FastAPI), integrating AI solutions with real-time performance  
-🔹 **Software Architecture Specialist:** MVC, MVVC, DDD, Clean Architecture  
+🔹 **Software Architecture Specialist:** MVC, MVVC, DDD, Clean Architecture, Testing  
 🔹 **Mobile Lead at Versotech:** Leading the development of ERP-integrated apps processing $1B+ annually  
 🔹 **Creator of House of Clashers** 15M+ downloads, 200k daily users, PHP backend with real-time Clash of Clans stats  
 🔹 **AI & Privacy Advocate:** Running LLMs locally with FastAPI for private, edge-based data processing  
 🔹 **Flutter Ecosystem Expertise:**  
-  - **State Management:** `Bloc`, `MobX`  
-  - **Architecture & DI:** `Modular`, `GetIt`, `AutoRoute` (❤️ typed routes), `AutoInjector`  
-  - **Storage:** `SQFlite`, `Hive`, `ObjectBox`, `SecureStorage`  
-  - **Codegen & Modeling:** `JsonAnnotation`, `Freezed`, `Result`, `Result Dart` 
+  - **State Management:** `Riverpod`, `MobX`, `Bloc`  
+  - **Architecture & DI:** `AutoRoute`, `Modular`, `GetIt`, `AutoInjector`  
+  - **Storage:** `SQFlite`, `Hive`, `SecureStorage`  
+  - **Codegen & Modeling:** `Freezed`, `dartz`, `JsonAnnotation`, `Result`, `Result Dart` 
   - **Testing:** `Unit`, `Widget`, `Integration`, `E2E` | `Mocktail`  
 
 ---
