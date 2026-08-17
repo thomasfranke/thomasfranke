@@ -27,6 +27,7 @@
 🔹 **Mobile Lead at Versotech:** Leading the development of ERP-integrated apps processing $1B+ annually  
 🔹 **Creator of House of Clashers** 15M+ downloads, 200k daily users, PHP backend with real-time Clash of Clans stats  
 🔹 **AI & Privacy Advocate:** Running LLMs locally with FastAPI for private, edge-based data processing  
+🔹 **Thesis (2026, UNISINOS — graded with distinction):** An empirical comparison of Clean Architecture vs. unstructured code in Flutter — [read it here](https://github.com/thomasfranke/flutter-clean-vs-spaghetti)  
 🔹 **Flutter Ecosystem Expertise:**  
   - **State Management:** `Riverpod`, `MobX`, `Bloc`  
   - **Architecture & DI:** `AutoRoute`, `Modular`, `GetIt`, `AutoInjector`  
@@ -36,25 +37,39 @@
 
 ---
 
-### Architecture Showcase Demo Apps
+### Featured Open Source
 
-🔹 [**Flutter Crypto DDD: v1**](https://github.com/thomasfranke/flutter_ddd)  
+🔹 [**Flutter Clean Architecture + Riverpod**](https://github.com/thomasfranke/flutter-clean-arch-riverpod)  
+  - My reference implementation of Clean Architecture + DDD in Flutter: `domain` (entities and contracts) at the center, `application` use cases around it, `data` and `infrastructure` reached only through explicit interfaces — with Riverpod as the DI mechanism for the whole app, wired next to each implementation instead of in a separate bootstrap layer.
+  - **Four levels of tests** — unit, widget, narrow integration and on-device E2E against the live Binance API — reaching **100% line coverage**, with the scope and limits of each level documented rather than assumed.
+  - Crypto tracker: live quotes with filtering and pull-to-refresh, candlestick charts, favorites, and persisted preferences (theme, font scale, EN/ES/PT).
+  - Documents its own tradeoffs, including where it deliberately deviates from a strict reading of the Dependency Rule — and why.
+  - 🔧 **Tech Used:** `Riverpod`, `AutoRoute`, `Dio`, `SharedPreferences`, `Freezed`, `dartz` (`Either`-based failures), `fl_chart`, `Mocktail`
+
+🔹 [**TOM — Team-Oriented Markdown**](https://github.com/thomasfranke/tom) *(pre-alpha, built in public)*  
+  - A Git client built for documentation instead of code: **rendered markdown diffs**, branching without ceremony, section blame, assisted conflict resolution. Local-first, MIT, no proprietary format.
+  - Architecture-first by design — the package layer graph, the roadmap and every architectural decision record were written and reviewed *before* the first line of implementation.
+  - 🔧 **Tech Used:** Dart / Flutter desktop (Windows, macOS, Linux)
+
+🔹 [**Clean Architecture vs. Spaghetti Code in Flutter**](https://github.com/thomasfranke/flutter-clean-vs-spaghetti) — *undergraduate thesis, graded with distinction*  
+  - Two Flutter apps with **identical features and identical dependencies**, built with opposite architectures — a controlled experiment where the only variable left is how the code is organized. The clean side is a scope-matched cut of the Riverpod app above.
+  - Measured instead of argued: static analysis, import coupling, cyclomatic complexity and testability. The clean side reached **41 test files and 100% line coverage** of the code under test; the spaghetti side has none, and reaches into third-party packages ~3× more often per file.
+  - Honest about the cost too: ~3× the files and ~2× the lines of code. Full thesis (PT) and defense slides (EN/PT) included.
+  - 🔧 **Tech Used:** Flutter, Provider, AutoRoute, Dio, fl_chart, `dart_code_linter`
+
+🔹 [**TomLog**](https://github.com/thomasfranke/tomlog)  
+  - Dart logging library: categorized and color-coded logs, automatic file/class capture, bounded history, JSON export and hooks for monitoring systems.
+  - 🔧 **Tech Used:** Dart
+
+---
+
+### Earlier Architecture Demos
+
+🔹 [**Flutter Crypto DDD: v1**](https://github.com/thomasfranke/flutter-ddd)  
   - A simple app with a complete DDD architecture to fetch crypto quotes, demonstrating Clean Architecture and DDD principles using `MobX` and `Modular`.  
 
-🔹 **Flutter Crypto DDD: v2** *(Coming Soon)*  
-  - Similar to the previous app, but experimenting with more modern packages:
-    - `Modular` → `AutoRoute` (❤️ typed routes) + `AutoInjector`
-    - `Result` → `Dart Result`
-    - `Json Annotation` → `Freezed`  
-
-🔹 **Flutter Crypto DDD: Bloc** *(Coming Soon)*  
-  - Similar to the previous app, but replacing `MobX` with the complete `Bloc` Pattern.  
-
-🔹 [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi_ddd)  
+🔹 [**Simple FastAPI Crypto DDD**](https://github.com/thomasfranke/fastapi-ddd)  
   - A lightweight API showcasing integration with the Binance API using DDD.  
-
-🔹 **Simple FastAPI AI DDD** *(Coming Soon)*  
-  - A lightweight API showcasing AI integration with Hugging Face, with a strong emphasis on data privacy.  
 
 
 ---
