@@ -31,13 +31,13 @@
 
 ### About
 
-I build mobile applications that stay maintainable as they grow, 10+ years in mobile, the last 5+ on Flutter, on top of a native foundation in iOS (Objective-C/Swift) and Android (Java/Kotlin).
+Bought my first iPhone in 2009 and knew right there my career would never be the same. Former lawyer, started the transition in 2010, went full-time in 2015, and never looked back. The last 5+ years have been on Flutter, on a native foundation in iOS and Android. Swift still has a place in my heart, but Flutter is what gets all my energy these days. It just freaking works. Lately I've been poking around Flutter desktop too, why not?
 
-What I care about is structure: Clean Architecture and DDD applied where they actually pay off, offline-first sync, and test suites that catch things instead of inflating a coverage number. I document decisions and make tradeoffs explicit, a habit left over from a previous life as a lawyer, before I traded the courtroom for the codebase.
+Mobile is how I got in, but I also found myself on the backend. These days I feel like a backend engineer who happens to work (a lot) in mobile.
 
-I've worked at both extremes: as a solo founder, building and scaling a product to 15M+ downloads on a backend I wrote myself, and inside a corporate team, leading mobile architecture on ERP-integrated applications. Currently at GeoSapiens, on greenfield Flutter.
+I care about structure: Clean Architecture and DDD where they pay off, and automated tests. Lately, I've been trying to make sense of this new world of AI agent orchestration — bringing my technical and market background to develop systems faster and more efficiently, without losing sight of the business rules. Automated testing just reached unimaginable levels.
 
-Fluent in English, studied in the US, comfortable across distributed teams.
+I've built solo (15M+ downloads on House of Clashers, on a backend I wrote myself) and led corporate mobile teams on ERP-integrated apps processing $1B+ in annual sales. Currently at GeoSapiens, on greenfield Flutter for monitoring systems in the oil & gas industry. Fluent in English, studied it in the US.
 
 ---
 
@@ -106,7 +106,7 @@ Fluent in English, studied in the US, comfortable across distributed teams.
 
 **ERP Mobile Platform**: [Versotech](https://versotech.com.br) *(private)*
 - **Mobile Lead:** led the architecture and the mobile team on a B2B client platform and a field sales application.
-- Orders captured in the field fed straight into the client's ERP, together backing **$1B+ in annual sales**.
+- Orders captured in the field fed straight into the client's ERP — by the time I left, the field sales app alone was processing **$1B+ in annual sales** (a conservative figure).
 - 🔧 `Flutter` · offline-first sync · `DDD` · CI/CD · automated tests (unit, integration, E2E) · error monitoring
 
 ---
@@ -115,7 +115,7 @@ Fluent in English, studied in the US, comfortable across distributed teams.
 
 <p align="center">
     <a href="https://github.com/thomasfranke">
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Thomas Franke Streak" src="https://github-readme-streak-stats.herokuapp.com?user=thomasfranke&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Thomas Franke Streak" src="https://streak-stats.demolab.com?user=thomasfranke&theme=react&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
