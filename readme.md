@@ -35,7 +35,7 @@ Bought my first iPhone in 2009 and knew right there my career would never be the
 
 Mobile is how I got in, but I also found myself on the backend. These days I feel like a backend engineer who happens to work (a lot) in mobile.
 
-I care about structure: Clean Architecture and DDD where they pay off, and automated tests. Lately, I've been trying to make sense of this new world of AI agent orchestration — bringing my technical and market background to develop systems faster and more efficiently, without losing sight of the business rules. Automated testing just reached unimaginable levels.
+I care about structure: Clean Architecture and DDD where they pay off, and automated tests. Lately, I've been trying to make sense of this new world of AI agent orchestration, bringing my technical and market background to develop systems faster and more efficiently, without losing sight of the business rules. Automated testing just reached unimaginable levels.
 
 I've built solo (15M+ downloads on House of Clashers, on a backend I wrote myself) and led corporate mobile teams on ERP-integrated apps processing $1B+ in annual sales. Currently at GeoSapiens, on greenfield Flutter for monitoring systems in the oil & gas industry. Fluent in English, studied it in the US.
 
@@ -106,7 +106,7 @@ I've built solo (15M+ downloads on House of Clashers, on a backend I wrote mysel
 
 **ERP Mobile Platform**: [Versotech](https://versotech.com.br) *(private)*
 - **Mobile Lead:** led the architecture and the mobile team on a B2B client platform and a field sales application.
-- Orders captured in the field fed straight into the client's ERP — by the time I left, the field sales app alone was processing **$1B+ in annual sales** (a conservative figure).
+- Orders captured in the field fed straight into the client's ERP, by the time I left, the field sales app alone was processing **$1B+ in annual sales** (a conservative figure).
 - 🔧 `Flutter` · offline-first sync · `DDD` · CI/CD · automated tests (unit, integration, E2E) · error monitoring
 
 ---
