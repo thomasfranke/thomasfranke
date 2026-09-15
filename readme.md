@@ -44,8 +44,10 @@ I've built solo (15M+ downloads on House of Clashers, on a backend I wrote mysel
 - Reference implementation of Clean Architecture + DDD in Flutter, a test-focused structure for applications meant to scale.
 - **Four levels of tests**, unit, widget, narrow integration and on-device E2E against the live Binance API, reaching **100% line coverage**, with the scope and limits of each level documented rather than assumed.
 - 🔧 `Riverpod` · `AutoRoute` · `Dio` · `SharedPreferences` · `Freezed` · `dartz` · `Mocktail`
+- **Ported to native Swift** — [swift-clean-arch-observation](https://github.com/thomasfranke/swift-clean-arch-observation): I built it to catch up with what is new on iOS, adapting the Clean Architecture and DDD originally developed here in Flutter. The layers moved over almost untouched, into a standalone `CryptoCore` Swift package. *In progress, the core is covered by tests, the app target is not yet.*
+  - 🔧 `Swift` · `SwiftUI` · `Observation` · `Swift Package Manager` · `Swift Testing` · `URLSession`
 
-**[Clean Architecture vs. Spaghetti Code in Flutter](https://github.com/thomasfranke/flutter-clean-vs-spaghetti)** · *2026*  · *Research, graded with distinction*
+**[Clean Architecture vs. Spaghetti Code in Flutter](https://github.com/thomasfranke/flutter-clean-vs-spaghetti)** · *2026*  · *Flutter* · *Research, graded with distinction*
 - My undergraduate thesis: two apps with **identical features and identical dependencies**, built with opposite architectures.
 - Measured instead of argued, static analysis, import coupling, cyclomatic complexity and testability.
 - Presentation in EN and PT, full article in PT.
@@ -62,6 +64,8 @@ I've built solo (15M+ downloads on House of Clashers, on a backend I wrote mysel
 - Every generated task carries a complete brief linked to a spec, ready to hand to a developer or an AI agent; the queue mirrors into GitHub Issues, and the agent drives branches, conventional commits and PRs.
 - Humans keep four named gates: the docs, the handoff, the approval, the merge.
 - 🔧 `Git` · `Bash`/`POSIX` · GitHub Issues & Actions
+- **Optional CLI in Go** — [writrun-cli](https://github.com/thomasfranke/writrun-cli): the porcelain over the methodology's own scripts, one binary for adopting a repository, keeping the kit current, reading the queue and running the four flows that end in a pull request. **It packages; it never decides** — the scripts stay the source of truth, and the client is never a dependency of the method. *Alpha: each release pins exactly one WritRun tag.*
+  - 🔧 `Go` · `gh` · Homebrew tap · `go install`
 
 **[TomLog](https://github.com/thomasfranke/tomlog)** · *2025* · *Dart package* · *Under Development*
 - Logging library with categorized, color-coded output, automatic file/class capture, bounded history, JSON export and hooks for monitoring systems.
