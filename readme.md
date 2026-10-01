@@ -58,15 +58,6 @@ I've built solo (15M+ downloads on House of Clashers, on a backend I wrote mysel
 - Bringing 10+ years of technical documentation experience together with AI, a combination enabling productivity and applications that felt unimaginable just a few years ago.
 - The product itself: a Git client built for documentation instead of code, **rendered markdown diffs**, branching without ceremony, section blame, assisted conflict resolution. Local-first, MIT, no proprietary format.
 
-
-**[WritRun](https://github.com/thomasfranke/writrun)** · *2026*  · *Dev tooling · alpha, built in public*
-- **"What is written, runs":** docs as the executable source, code as the derived artefact: AI checks the code against the docs and generates tasks and specs ready for development.
-- Every generated task carries a complete brief linked to a spec, ready to hand to a developer or an AI agent; the queue mirrors into GitHub Issues, and the agent drives branches, conventional commits and PRs.
-- Humans keep four named gates: the docs, the handoff, the approval, the merge.
-- 🔧 `Git` · `Bash`/`POSIX` · GitHub Issues & Actions
-- **Optional CLI in Go** — [writrun-cli](https://github.com/thomasfranke/writrun-cli): the porcelain over the methodology's own scripts, one binary for adopting a repository, keeping the kit current, reading the queue and running the four flows that end in a pull request. **It packages; it never decides** — the scripts stay the source of truth, and the client is never a dependency of the method. *Alpha: each release pins exactly one WritRun tag.*
-  - 🔧 `Go` · `gh` · Homebrew tap · `go install`
-
 **[TomLog](https://github.com/thomasfranke/tomlog)** · *2025* · *Dart package* · *Under Development*
 - Logging library with categorized, color-coded output, automatic file/class capture, bounded history, JSON export and hooks for monitoring systems.
 - 🔧 `Dart`
@@ -82,6 +73,12 @@ I've built solo (15M+ downloads on House of Clashers, on a backend I wrote mysel
 - A deliberately simple app: a straightforward layered implementation, covered by tests.
 - 🔧 `FastAPI` · `Hugging Face` · `Python`
 
+**[WritRun](https://github.com/thomasfranke/writrun)** · *2026*  · *Dev tooling* · *Discontinued*
+- An experiment to **find the limits of AI on a skill-heavy project**: a methodology built almost entirely from agent skills, scripts and written conventions, pushed until it broke.
+- **"What is written, runs":** docs as the executable source, code as the derived artefact: AI checked the code against the docs and generated tasks and specs ready for development.
+- Every generated task carried a complete brief linked to a spec; the queue mirrored into GitHub Issues, and the agent drove branches, conventional commits and PRs. Humans kept four named gates: the docs, the handoff, the approval, the merge.
+- Came with an optional Go CLI, [writrun-cli](https://github.com/thomasfranke/writrun-cli), packaging the methodology's scripts into one binary.
+- 🔧 `Git` · `Bash`/`POSIX` · `Go` · GitHub Issues & Actions
 
 > The same architectural discipline across stacks, the Binance ticker domain implemented in [Flutter](https://github.com/thomasfranke/flutter-ddd) and [Spring Boot](https://github.com/thomasfranke/springboot-ddd).
 
